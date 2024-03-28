@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Peta Jakarta</title>
+
+  <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css"/>
+  <link rel="stylesheet" href="style.css">
+  <style>
+    #map {
+      height: 600px;
+      width: 95%;
+      margin-bottom: 5%;
+    }
+  </style>
+</head>
+<body>
+    <table>
+        <td>
+            <th><img src="MRT.png" alt="" style="height: 60px; margin-left: 5%;"></th>
+            <th><h1 style="text-align: right; margin-right: 10%;">Peta Rute dan Stasiun MRT Jakarta</h1></th>
+        </td>
+    </table>
+    <div id="search-container">
+        <input type="text" id="search-input" placeholder="Cari stasiun...">
+        <button onclick="searchStation()">Cari</button>
+    </div>
+    <div id="station-list"></div>
+    <br>
+    <div id="map"></div>
+    <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+    <script src="jakarta.geojson"></script>
+    <script src="script.js"></script>
+</body>
+</html>

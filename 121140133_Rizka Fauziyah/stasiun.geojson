@@ -1,0 +1,174 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Stasiun Fatmawati Indomaret"
+      },
+      "geometry": {
+        "coordinates": [
+          106.79246772770239,
+          -6.292459716258804
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Stasiun Cipete Raya"
+      },
+      "geometry": {
+        "coordinates": [
+          106.79731112698676,
+          -6.2784030959494
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Stasiun Haji Nawi"
+      },
+      "geometry": {
+        "coordinates": [
+          106.79732323175153,
+          -6.266700040249077
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Stasiun Blok A"
+      },
+      "geometry": {
+        "coordinates": [
+          106.79710915931634,
+          -6.255789359210752
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Stasiun BLok M BCA"
+      },
+      "geometry": {
+        "coordinates": [
+          106.79813301684021,
+          -6.244603422204534
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Stasiun ASEAN"
+      },
+      "geometry": {
+        "coordinates": [
+          106.79840322737272,
+          -6.238774429929606
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Stasiun Senayan Mastercard"
+      },
+      "geometry": {
+        "coordinates": [
+          106.80247512092654,
+          -6.226729693380264
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Stasiun Istora Mandiri"
+      },
+      "geometry": {
+        "coordinates": [
+          106.80859084245907,
+          -6.222367895060131
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Stasiun Bendungan Hilir"
+      },
+      "geometry": {
+        "coordinates": [
+          106.81793508860159,
+          -6.215019120057008
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Stasiun Setiabudi Astra"
+      },
+      "geometry": {
+        "coordinates": [
+          106.82173558731665,
+          -6.209098704138924
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Stasiun Dukuh Atas BNI"
+      },
+      "geometry": {
+        "coordinates": [
+          106.82278946444421,
+          -6.20080106714002
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Stasiun Bundaran HI"
+      },
+      "geometry": {
+        "coordinates": [
+          106.82299457414467,
+          -6.191867533028784
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Stasiun Lebak Bulus Grab"
+      },
+      "geometry": {
+        "coordinates": [
+          106.77495742844098,
+          -6.289286554913431
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+body, ul {
+    margin: 0;
+    padding: 0;
+}
+
+#search-container {
+    margin: 10px;
+    text-align: center;
+}
+
+#search-input {
+    padding: 5px;
+    width: 200px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+#search-container button {
+    padding: 6px 10px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#map {
+    height: 600px;
+    margin: 10px auto;
+    display: block;
+}
+
+#station-list {
+    margin: 10px auto;
+    text-align: left;
+    width: 50%;
+}
+
+.station-link {
+    display: block;
+    padding: 5px;
+    margin-bottom: 5px;
+    background-color: #f4f4f4;
+    border-radius: 5px;
+    text-decoration: none;
+    color: #333;
+}
+
+.station-link:hover {
+    background-color: #ddd;
+}
+
+table {
+    border-collapse: collapse; 
+    width: 100%; 
+}
+
+
+tr {
+    border-bottom: 1px solid #ddd; 
+}
+
+td, th {
+    padding: 8px; 
+    text-align: left;
+    border: none; 
+}
